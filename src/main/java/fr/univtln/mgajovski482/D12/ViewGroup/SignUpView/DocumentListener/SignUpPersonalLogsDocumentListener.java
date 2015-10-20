@@ -3,7 +3,7 @@ package fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener;
 import fr.univtln.mgajovski482.D12.ViewGroup.AbstractDocumentListener;
 import fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.SignUpPersonalLogsView;
 import fr.univtln.mgajovski482.D12.ViewGroup.ViewGroupRegex;
-import fr.univtln.mgajovski482.d12.User.RegisteredUser.RegisteredUserLogs.Logs.RUPersonalLogs;
+import fr.univtln.mgajovski482.d12.User.RegisteredUser.RegisteredUserLogs.RUPersonalLogs;
 
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;

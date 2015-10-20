@@ -6,6 +6,7 @@ import fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleView;
 import fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener.SignUpConnectionLogsDocumentListener;
 import fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener.SignUpPersonalLogsDocumentListener;
 import fr.univtln.mgajovski482.D12.ViewGroup.ViewGroupStyle;
+import fr.univtln.mgajovski482.d12.User.RegisteredUser.RegisteredUserFactory.RUFactory;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
@@ -116,10 +117,11 @@ public class SignUpConnectionLogsView extends AbstractView {
         confirmJButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 SignUpConnectionLogsDocumentListener.createConnectionLogs();
-
-                SignUpUserFactory.createRegisteredUser(
+                RUFactory.createRegisteredUser(
                         SignUpPersonalLogsDocumentListener.getRuPersonalLogs(),
                         SignUpConnectionLogsDocumentListener.getRuConnectionLogs());
+                Container.getInstance().updateView(ScreenTitleView.getInstance());
+                onExit();
             }
         });
 

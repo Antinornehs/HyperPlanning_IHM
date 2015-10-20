@@ -3,7 +3,7 @@ package fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener;
 import fr.univtln.mgajovski482.D12.ViewGroup.AbstractDocumentListener;
 import fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.SignUpConnectionLogsView;
 import fr.univtln.mgajovski482.D12.ViewGroup.ViewGroupRegex;
-import fr.univtln.mgajovski482.d12.User.RegisteredUser.RegisteredUserLogs.Logs.RUConnectionLogs;
+import fr.univtln.mgajovski482.d12.User.RegisteredUser.RegisteredUserLogs.RUConnectionLogs;
 
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;
@@ -46,8 +46,7 @@ public class SignUpConnectionLogsDocumentListener extends AbstractDocumentListen
 
     public static void createConnectionLogs(){
         logger.info("ConnectionLogs Created Correctly !");
-        ruConnectionLogs = new RUConnectionLogs
-                .RUConnectionLogsBuilder(emailToTest, passwordToTest).build();
+        ruConnectionLogs = new RUConnectionLogs(emailToTest, passwordToTest);
 
     }
 
