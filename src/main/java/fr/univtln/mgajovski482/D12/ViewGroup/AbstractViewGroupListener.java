@@ -1,6 +1,7 @@
 package fr.univtln.mgajovski482.D12.ViewGroup;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.*;
 
 /**
@@ -23,7 +24,6 @@ public abstract class AbstractViewGroupListener implements MouseListener, MouseM
     }
 
     public void mouseEntered(MouseEvent e) {
-
     }
 
     public void mouseExited(MouseEvent e) {
@@ -37,6 +37,7 @@ public abstract class AbstractViewGroupListener implements MouseListener, MouseM
     public void mouseMoved(MouseEvent e) {
 
     }
+
 
 
 }

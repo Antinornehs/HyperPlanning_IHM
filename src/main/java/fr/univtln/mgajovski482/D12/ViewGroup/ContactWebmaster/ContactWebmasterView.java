@@ -1,6 +1,6 @@
 package fr.univtln.mgajovski482.D12.ViewGroup.ContactWebmaster;
 
-import fr.univtln.mgajovski482.D12.App;
+import fr.univtln.mgajovski482.D12.Gui;
 import fr.univtln.mgajovski482.D12.Container;
 import fr.univtln.mgajovski482.D12.ViewGroup.AbstractView;
 import fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleView;
@@ -98,7 +98,7 @@ public class ContactWebmasterView extends AbstractView {
        validateJButton.setEnabled(false);
         validateJButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(App.getInstance().getMyWindow(),
+                JOptionPane.showMessageDialog(Gui.getInstance().getMyWindow(),
                         htmlFormattedText("Votre message a bien été transmis.\n" +
                                 "Un opérateur va traiter votre requête."),
                         "Message envoyé avec succès", JOptionPane.INFORMATION_MESSAGE);

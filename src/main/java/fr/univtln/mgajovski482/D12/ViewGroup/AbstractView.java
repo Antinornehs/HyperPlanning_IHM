@@ -1,5 +1,6 @@
 package fr.univtln.mgajovski482.D12.ViewGroup;
 
+import javafx.scene.control.DatePicker;
 import net.miginfocom.swing.MigLayout;
 
 import javax.swing.*;

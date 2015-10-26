@@ -68,7 +68,7 @@ public class Container extends JPanel {
 
     public static Container getInstance() {
         if (_instance == null) {
-            synchronized(App.class) {
+            synchronized(Gui.class) {
                 if (_instance == null) {
                     _instance = new Container();
                 }

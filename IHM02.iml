@@ -16,5 +16,10 @@
     <orderEntry type="library" name="Maven: com.miglayout:miglayout-core:5.0" level="project" />
     <orderEntry type="library" name="Maven: com.toedter:jcalendar:1.4" level="project" />
     <orderEntry type="library" name="Maven: fr.univtln.mgajovski482.d12:actors:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.4" level="project" />
+    <orderEntry type="library" name="Maven: fr.univtln.mgajovski.d12:Formations:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: javax.validation:validation-api:1.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jopendocument:jOpenDocument:1.3" level="project" />
+    <orderEntry type="library" name="Maven: fr.univtln.mgajovski482.D12:Reservable:1.0-SNAPSHOT" level="project" />
   </component>
 </module>

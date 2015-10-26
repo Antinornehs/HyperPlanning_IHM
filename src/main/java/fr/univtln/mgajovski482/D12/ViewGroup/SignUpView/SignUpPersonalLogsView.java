@@ -1,13 +1,12 @@
 package fr.univtln.mgajovski482.D12.ViewGroup.SignUpView;
 
 import com.toedter.calendar.JDateChooser;
-import fr.univtln.mgajovski482.D12.Container;
 import fr.univtln.mgajovski482.D12.ViewGroup.AbstractView;
 import fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleView;
 import fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener.SignUpPersonalLogsDocumentListener;
 import fr.univtln.mgajovski482.D12.ViewGroup.ViewGroupStyle;
 import fr.univtln.mgajovski482.d12.User.RegisteredUser.RegisteredUserLogs.RUPersonalLogs;
-
+import fr.univtln.mgajovski482.D12.Container;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

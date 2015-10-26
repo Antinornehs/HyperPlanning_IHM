@@ -24,7 +24,6 @@ public class SignUpConnectionLogsView extends AbstractView {
     private static volatile SignUpConnectionLogsView _instance = null;
 
     private static final String DEFAULT_GAP_LEFT_ITEM           = "gapleft 70";
-
     private final JLabel screenTitleJLabel                      = new JLabel(htmlFormattedText("Inscription"));
     private final JPasswordField passwordJPasswordField         = new JPasswordField(10);
     private final JLabel passwordLabel                          = new JLabel("Mot de passe : ");

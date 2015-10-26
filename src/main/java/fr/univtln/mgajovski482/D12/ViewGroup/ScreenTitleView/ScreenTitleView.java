@@ -1,5 +1,6 @@
 package fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView;
 
+import fr.univtln.mgajovski482.D12.*;
 import fr.univtln.mgajovski482.D12.ViewGroup.AbstractView;
 import fr.univtln.mgajovski482.D12.ViewGroup.AbstractViewGroupListener;
 import fr.univtln.mgajovski482.D12.ViewGroup.ContactWebmaster.ContactWebmasterView;
@@ -9,12 +10,11 @@ import fr.univtln.mgajovski482.D12.ViewGroup.ViewGroupStyle;
 import fr.univtln.mgajovski482.D12.Container;
 import javax.swing.*;
 
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
-import java.util.ArrayList;
-import java.util.Arrays;
-
+import java.util.*;
 import static fr.univtln.mgajovski482.D12.ViewGroup.ViewGroupUsefulFct.htmlFormattedText;
 
 /**
@@ -93,6 +93,7 @@ public class ScreenTitleView extends AbstractView {
             @Override
             public void mouseEntered(MouseEvent e) {
                 super.mouseExited(e);
+                setCursor(new Cursor(Cursor.HAND_CURSOR));
                 forgottenPasswordJLabel.setText(htmlFormattedText
                         ("<span style=\"color:" + ViewGroupStyle.DEFAULT_HIGHLIGHT_COLOR + "\">Perte d'identifiants"));
             }
@@ -100,6 +101,7 @@ public class ScreenTitleView extends AbstractView {
             @Override
             public void mouseExited(MouseEvent e) {
                 super.mouseExited(e);
+                setCursor(new Cursor(Cursor.DEFAULT_CURSOR));
                 forgottenPasswordJLabel.setText(htmlFormattedText
                         ("Perte d'identifiants"));
             }
@@ -107,6 +109,7 @@ public class ScreenTitleView extends AbstractView {
             @Override
             public void mouseClicked(MouseEvent e) {
                 super.mouseClicked(e);
+
                 Container.getInstance().updateView(ForgottenPasswordView.getInstance());
                 onExit();
                 mouseExited(e);
@@ -121,13 +124,15 @@ public class ScreenTitleView extends AbstractView {
         signUpJLabel.addMouseListener(new AbstractViewGroupListener() {
             @Override
             public void mouseEntered(MouseEvent e) {
-                super.mouseExited(e);
+                super.mouseEntered(e);
+                setCursor(new Cursor(Cursor.HAND_CURSOR));
                 signUpJLabel.setText(htmlFormattedText
                         ("<span style=\"color:" + ViewGroupStyle.DEFAULT_HIGHLIGHT_COLOR + "\">S'inscrire"));
             }
             @Override
             public void mouseExited(MouseEvent e) {
-                super.mouseEntered(e);
+                super.mouseExited(e);
+                setCursor(new Cursor(Cursor.DEFAULT_CURSOR));
                 signUpJLabel.setText(htmlFormattedText("S'inscrire"));
             }
             @Override
@@ -147,6 +152,7 @@ public class ScreenTitleView extends AbstractView {
             @Override
             public void mouseEntered(MouseEvent e) {
                 super.mouseEntered(e);
+                setCursor(new Cursor(Cursor.HAND_CURSOR));
                 contactWebmasterJLabel.setText(htmlFormattedText
                         ("<span style=\"color:" + ViewGroupStyle.DEFAULT_HIGHLIGHT_COLOR + "\">Nous contacter"));
 
@@ -155,6 +161,7 @@ public class ScreenTitleView extends AbstractView {
             @Override
             public void mouseExited(MouseEvent e) {
                 super.mouseExited(e);
+                setCursor(new Cursor(Cursor.DEFAULT_CURSOR));
                 contactWebmasterJLabel.setText(htmlFormattedText("Nous contacter"));
             }
 
@@ -186,6 +193,7 @@ public class ScreenTitleView extends AbstractView {
             @Override
             public void mouseEntered(MouseEvent e) {
                 super.mouseEntered(e);
+                setCursor(new Cursor(Cursor.HAND_CURSOR));
                 visitorAccessJLabel.setText(htmlFormattedText
                         ("<span style=\"color:" + ViewGroupStyle.DEFAULT_HIGHLIGHT_COLOR + "\">Acces visiteur"));
             }
@@ -193,6 +201,7 @@ public class ScreenTitleView extends AbstractView {
             @Override
             public void mouseExited(MouseEvent e) {
                 super.mouseExited(e);
+                setCursor(new Cursor(Cursor.DEFAULT_CURSOR));
                 visitorAccessJLabel.setText(htmlFormattedText("Acces visiteur"));
             }
 
