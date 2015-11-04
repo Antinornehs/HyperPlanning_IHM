@@ -13,7 +13,8 @@ public class SchedulerView extends AbstractView {
 
     private static volatile SchedulerView _instance = null;
 
-    private static final String days[] = {"Lundi", "Mardi","Mercredi",
+    private static final String days[] = {
+            "Lundi", "Mardi","Mercredi",
             "Jeudi","Vendredi","Samedi", "Dimanche"};
 
 

@@ -117,7 +117,8 @@ public class SignUpConnectionLogsView extends AbstractView {
                 SignUpConnectionLogsDocumentListener.createConnectionLogs();
                 RUFactory.createRegisteredUser(
                         SignUpPersonalLogsDocumentListener.getRuPersonalLogs(),
-                        SignUpConnectionLogsDocumentListener.getRuConnectionLogs());
+                        SignUpConnectionLogsDocumentListener.getRuConnectionLogs())
+                        .addFormations(SignUpPersonalLogsDocumentListener.getFormation());
                 Container.getInstance().updateView(ScreenTitleView.getInstance());
                 onExit();
             }

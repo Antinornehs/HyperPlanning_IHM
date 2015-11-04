@@ -2,6 +2,8 @@ package fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ContactWebmaster;
 
 import fr.univtln.mgajovski482.HyperPlanning.Gui;
 import fr.univtln.mgajovski482.HyperPlanning.Container;
+import fr.univtln.mgajovski482.HyperPlanning.SendEmail;
+import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.AbstractRegUser;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ScreenTitleView.ScreenTitleView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ViewGroupStyle;
@@ -98,10 +100,22 @@ public class ContactWebmasterView extends AbstractView {
        validateJButton.setEnabled(false);
         validateJButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(Gui.getInstance().getMyWindow(),
-                        htmlFormattedText("Votre message a bien été transmis.\n" +
-                                "Un opérateur va traiter votre requête."),
-                        "Message envoyé avec succès", JOptionPane.INFORMATION_MESSAGE);
+                String author = authorJTextField.getText();
+                if(AbstractRegUser.staticRegUsersMap.get(author) == null) {
+                    JOptionPane.showMessageDialog(Gui.getInstance().getMyWindow(),
+                            htmlFormattedText("Cet e-Mail n'est pas enregistré dans notre BDD."),
+                            "Erreur !", JOptionPane.ERROR_MESSAGE);
+
+
+                }else{
+                    JOptionPane.showMessageDialog(Gui.getInstance().getMyWindow(),
+                            htmlFormattedText("Votre message a bien été transmis.\n" +
+                                    "Un opérateur va traiter votre requête."),
+                            "Message envoyé avec succès", JOptionPane.INFORMATION_MESSAGE);
+                    SendEmail.sendContactWebmasterMessage();
+                }
+
+                Container.getInstance().updateView(ScreenTitleView.getInstance());
                 onExit();
             }
         });
@@ -114,6 +128,7 @@ public class ContactWebmasterView extends AbstractView {
     private void initAndAddCancelButton(){
         cancelButtonJComp.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
+                Container.getInstance().updateView(ScreenTitleView.getInstance());
                 onExit();
             }
         });
@@ -146,10 +161,10 @@ public class ContactWebmasterView extends AbstractView {
 
 
     protected void onExit(){
+        super.onExit();
         authorJTextField        .setText("");
         topicJTextField         .setText("");
         messageJTextArea        .setText("");
-        Container.getInstance().updateView(ScreenTitleView.getInstance());
     }
 
     public static ContactWebmasterView getInstance() {

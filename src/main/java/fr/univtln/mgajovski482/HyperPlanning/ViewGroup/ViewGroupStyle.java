@@ -10,7 +10,7 @@ import java.awt.*;
 public final class ViewGroupStyle {
 
 
-    public static final  Font       DEFAULT_FONT = ViewGroupUsefulFct.importFont(Default_Consts.FONT_URL + "QUARTZO.ttf");
+    public static final  Font       DEFAULT_FONT = ViewGroupUsefulFct.importFont(Default_Consts.FONT_URL + "MRFHelloFall.otf");
 
     public static final String      DEFAULT_HIGHLIGHT_COLOR  = "#FF0000";
 

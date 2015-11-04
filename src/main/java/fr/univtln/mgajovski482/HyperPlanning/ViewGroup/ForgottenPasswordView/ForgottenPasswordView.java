@@ -2,6 +2,8 @@ package fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ForgottenPasswordView;
 
 import fr.univtln.mgajovski482.HyperPlanning.Gui;
 import fr.univtln.mgajovski482.HyperPlanning.Container;
+import fr.univtln.mgajovski482.HyperPlanning.SendEmail;
+import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.AbstractRegUser;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ScreenTitleView.ScreenTitleView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ViewGroupStyle;
@@ -13,6 +15,8 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+import static fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ViewGroupUsefulFct.htmlFormattedText;
+
 /**
  * Created by Maxime on 16/10/2015.
  */
@@ -22,7 +26,7 @@ public class ForgottenPasswordView extends AbstractView {
     private static volatile ForgottenPasswordView _instance   = null;
 
     public static final String       DEFAULT_GAP_LEFT_ITEM    = "gapleft 20";
-    public static final JLabel        screenTitleJComp         = new JLabel(ViewGroupUsefulFct.htmlFormattedText("MDP Oublié ?"));
+    public static final JLabel        screenTitleJComp         = new JLabel(htmlFormattedText("MDP Oublié ?"));
     public static final JLabel        emailLabel               = new JLabel("Email : ");
     public static final JLabel        confirmEmailLabel        = new JLabel("Confirmation Email: ");
 
@@ -85,12 +89,24 @@ public class ForgottenPasswordView extends AbstractView {
         validateJButton.setEnabled(false);
         validateJButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(Gui.getInstance().getMyWindow(),
-                        ViewGroupUsefulFct.htmlFormattedText("Votre mot de passe a été envoyé à l'adresse mél suivante: \n"
-                                + "<html><u>" + emailJTextField.getText() + "</u>"),
-                        "Mot de passe envoyé avec succès", JOptionPane.INFORMATION_MESSAGE);
-                //SendEmail.sendMessage();
+                String author = emailJTextField.getText();
+                if(AbstractRegUser.staticRegUsersMap.get(author) == null) {
+                    JOptionPane.showMessageDialog(Gui.getInstance().getMyWindow(),
+                            htmlFormattedText("Cet e-Mail n'est pas enregistré dans notre BDD."),
+                            "Erreur !", JOptionPane.ERROR_MESSAGE);
+
+
+                }else{
+
+                    JOptionPane.showMessageDialog(Gui.getInstance().getMyWindow(),
+                            htmlFormattedText("Votre mot de passe a été envoyé à l'adresse mél suivante: \n"
+                                    + "<html><u>" + emailJTextField.getText() + "</u>"),
+                            "Mot de passe envoyé avec succès", JOptionPane.INFORMATION_MESSAGE);
+                    SendEmail.forgottenPasswordMessage();
+                }
+                Container.getInstance().updateView(ScreenTitleView.getInstance());
                 onExit();
+
             }
         });
 
@@ -103,6 +119,7 @@ public class ForgottenPasswordView extends AbstractView {
     private void addCancelButton(){
         cancelJButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
+                Container.getInstance().updateView(ScreenTitleView.getInstance());
                 onExit();
             }
         });
@@ -135,7 +152,6 @@ public class ForgottenPasswordView extends AbstractView {
         super.onExit();
         emailJTextField.setText("");
         confirmEmailJTextField.setText("");
-        Container.getInstance().updateView(ScreenTitleView.getInstance());
     }
 
     public static ForgottenPasswordView getInstance() {

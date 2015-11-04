@@ -33,7 +33,6 @@ public class Gui
 
         myWindow.pack();
         myWindow.setVisible(true);
-
         myWindow.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         logger.info("Gui Package Initialized !");
     }

@@ -1,5 +1,6 @@
 package fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView.DocumentListener;
 
+import fr.univtln.mgajovski482.HyperPlanning.Formation;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractDocumentListener;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView.SignUpPersonalLogsView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ViewGroupRegex;
@@ -15,12 +16,11 @@ import java.util.logging.Logger;
  */
 public class SignUpPersonalLogsDocumentListener extends AbstractDocumentListener {
 
-    private static Logger logger = Logger.getLogger("SignUpPersonalLogsDocumentListener.class");
+    public static Logger logger = Logger.getLogger("SignUpPersonalLogsDocumentListener.class");
     private static final SignUpPersonalLogsView view = SignUpPersonalLogsView.getInstance();
     private static final JButton continueJButton = view.getContinueJButton();
     private static RUPersonalLogs ruPersonalLogs;
-
-
+    private static Formation formation;
 
     private static String
             firstNameToTest, lastNameToTest, cityToTest, postalCodeToTest,
@@ -91,10 +91,20 @@ public class SignUpPersonalLogsDocumentListener extends AbstractDocumentListener
                 .build();
     }
 
+    public static Formation getFormation() {
+        return formation;
+    }
+
+    public static void setFormation(Formation formation) {
+        logger.info("Formation set Correctly !");
+        SignUpPersonalLogsDocumentListener.formation = formation;
+    }
+
     private boolean conditionsAreOkay(){
         return (postalCodeIsCorrect && lastNameIsCorrect 
                 && firstNameIsCorrect && phoneNumberIsCorrect 
                 && webSiteIsCorrect && cityIsCorrect 
                 && addressIsCorrect && birthDateIsCorrect()) ? true : false;
     }
+
 }

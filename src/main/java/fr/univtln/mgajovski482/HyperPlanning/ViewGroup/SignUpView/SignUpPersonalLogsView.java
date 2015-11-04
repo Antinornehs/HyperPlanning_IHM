@@ -1,6 +1,7 @@
 package fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView;
 
 import com.toedter.calendar.JDateChooser;
+import fr.univtln.mgajovski482.HyperPlanning.Container;
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserLogs.RUPersonalLogs;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ScreenTitleView.ScreenTitleView;
@@ -24,12 +25,9 @@ public class SignUpPersonalLogsView extends AbstractView {
 
     private static volatile SignUpPersonalLogsView _instance = null;
 
-    private static final String DEF_ITEM_GAPLEFT    = "gapleft 70";
-
-    public static final  String[] STATUS_ARRAY = RUPersonalLogs.Status.getLabels();
-
-    public static  final  String[] GENDER_ARRAY
-            = { "M.", "Mme"};
+    private static final String DEF_ITEM_GAPLEFT        = "gapleft 70";
+    private static final String[] STATUS_ARRAY          = RUPersonalLogs.Status.getLabels();
+    private static final String[] GENDER_ARRAY          = { "M.", "Mme"};
 
     private final JLabel screenTitleJLabel              = new JLabel(ViewGroupUsefulFct.htmlFormattedText("Inscription"));
     private final JComboBox<String> genderJComboBox     = new JComboBox<String>();
@@ -90,6 +88,7 @@ public class SignUpPersonalLogsView extends AbstractView {
         addBirthDateJCalendar();
 
         addStatusComboBox();
+
         addCityJTextField();
         addPostalCodeJTextField();
         addAddressJTextField();
@@ -123,7 +122,6 @@ public class SignUpPersonalLogsView extends AbstractView {
         _instance.add(genderLabel, DEF_ITEM_GAPLEFT);
         _instance.add(genderJComboBox, ViewGroupStyle.DEF_GROUP_ITEM_WRAP);
     }
-
 
     private void addLastNameJTextField(){
 
@@ -202,7 +200,9 @@ public class SignUpPersonalLogsView extends AbstractView {
         continueJButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 SignUpPersonalLogsDocumentListener.createPersonalLogs();
-                fr.univtln.mgajovski482.HyperPlanning.Container.getInstance().updateView(SignUpConnectionLogsView.getInstance());
+                if(statusJComboBox.getSelectedItem().equals("Eleve"))
+                    Container.getInstance().updateView(SignUpFormationView.getInstance());
+                else Container.getInstance().updateView(SignUpConnectionLogsView.getInstance());
                 onExit();
             }
         });
@@ -215,9 +215,8 @@ public class SignUpPersonalLogsView extends AbstractView {
 
         cancelJButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                fr.univtln.mgajovski482.HyperPlanning.Container.getInstance().updateView(ScreenTitleView.getInstance());
+                Container.getInstance().updateView(ScreenTitleView.getInstance());
                 onExit();
-
             }
         });
         _instance.add(cancelJButton, "wrap");
@@ -290,9 +289,9 @@ public class SignUpPersonalLogsView extends AbstractView {
                         continueJButton, cancelJButton, birthDateLabel));
 
         componentsToSetBorder = new ArrayList<JComponent>(
-                Arrays.asList(  genderJComboBox, firstNameJTextField, lastNameJTextField,
-                        websiteJTextField, statusJComboBox, cityJTextField,
-                        postalCodeJTextField, addressJScrollPane, phoneNumberJTextField, birthDateJDateChooser));
+                Arrays.asList(  firstNameJTextField, lastNameJTextField,websiteJTextField,
+                        cityJTextField, postalCodeJTextField, addressJScrollPane,
+                        phoneNumberJTextField, birthDateJDateChooser));
     }
 
 

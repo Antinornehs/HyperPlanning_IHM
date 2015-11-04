@@ -15,6 +15,11 @@ public final class Default_Consts {
     public final static String  RESOURCES_PATH
             = System.getProperty("user.dir") + File.separator + "resources" + File.separator;
 
+    public final static String ADMIN_EMAIL
+            = "hyperplanningm1dapm@gmail.com";
+//mot_de_passe_hyperplanning
+    public final static String ADMIN_PASSWORD
+            = "mot_de_passe_hyperplanning";
 
     public final static String  FONT_PATH
             = RESOURCES_PATH + "font" + File.separator;

@@ -4,6 +4,7 @@ import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractViewGroupListener;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ContactWebmaster.ContactWebmasterView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ForgottenPasswordView.ForgottenPasswordView;
+import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView.SignUpFormationView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView.SignUpPersonalLogsView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ViewGroupStyle;
 import fr.univtln.mgajovski482.HyperPlanning.Container;
