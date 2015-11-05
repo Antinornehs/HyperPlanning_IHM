@@ -6,15 +6,17 @@ package fr.univtln.mgajovski482.HyperPlanning;
 public class Main {
 
     public static void main(String[] args) throws Exception{
-        EquipmentMain.getInstance();
-//        ActorsMain      .getInstance();
-//        FormationMain   .getInstance();
+        ActorsMain      .getInstance();
+        FormationMain   .getInstance();
+        EquipmentMain   .getInstance();
 //        Gui             .getInstance();
 
 //        Filling.genStudents();
 //        Filling.genTeachers();
 //        Filling.genTeachingUnits();
-
 //        Filling.genFormations();
+//        Filling.genRooms();
+        Filling.genSchedules();
+
     }
 }

@@ -1,5 +1,7 @@
 package fr.univtln.mgajovski482.HyperPlanning;
 
+import fr.univtln.mgajovski482.HyperPlanning.Reservable.Room.Room;
+import fr.univtln.mgajovski482.HyperPlanning.Schedule.Schedule;
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.AbstractRegUser;
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserLogs.RUPersonalLogs;
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.Student;
@@ -48,6 +50,22 @@ public class Filling {
         for(String mapKey : Formation.formationMap.keySet()){
             System.out.println(Formation.formationMap.get(mapKey));
             fm.insert(Formation.formationMap.get(mapKey));
+        }
+    }
+
+    public static void genRooms(){
+        EntityManager<Room, String> rm = new RoomManager();
+        for(String mapKey : Room.staticRoomMap.keySet()){
+            System.out.println(Room.staticRoomMap.get(mapKey));
+            rm.insert(Room.staticRoomMap.get(mapKey));
+        }
+    }
+
+    public static void genSchedules(){
+        EntityManager<Schedule, Integer> sm = new ScheduleManager();
+        for(int mapKey : Schedule.staticScheduleMap.keySet()){
+            System.out.println(Schedule.staticScheduleMap.get(mapKey));
+            sm.insert(Schedule.staticScheduleMap.get(mapKey));
         }
     }
 }
