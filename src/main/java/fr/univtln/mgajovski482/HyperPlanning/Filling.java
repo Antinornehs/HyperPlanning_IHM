@@ -4,7 +4,7 @@ import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.AbstractRegUser
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserLogs.RUPersonalLogs;
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.Student;
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.Teacher;
-import fr.univtln.sgrassell418.d12.dao.entityManagers.*;
+import fr.univtln.sgrassell418.hyperPlanning.dao.entityManagers.*;
 
 import java.util.logging.Logger;
 
