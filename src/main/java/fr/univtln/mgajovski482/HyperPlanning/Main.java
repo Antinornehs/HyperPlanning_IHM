@@ -30,9 +30,8 @@ public class Main {
         ActorsMain      .getInstance();
         FormationMain   .getInstance();
 
-        ReservableMain  .getInstance();
+        EquipmentMain   .getInstance();
         GroupsMain      .getInstance();
-        Gui             .getInstance();
 
         ActorsMain      .getInstance();
         FormationMain   .getInstance();
@@ -43,7 +42,9 @@ public class Main {
 //        Filling.genTeachingUnits();
 //        Filling.genFormations();
 //        Filling.genRooms();
-        Filling.genSchedules();
+//        Filling.genSchedules();
+//        Filling.genCourses();
+        Filling.genGroups();
 
     }
 }
