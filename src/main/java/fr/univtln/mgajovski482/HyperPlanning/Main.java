@@ -2,6 +2,7 @@ package fr.univtln.mgajovski482.HyperPlanning;
 
 
 import fr.univtln.mgajovski482.HyperPlanning.GroupInFormation.GroupInFormation;
+import fr.univtln.mgajovski482.HyperPlanning.Reservable.Reservable;
 
 /**
  * <b>Main est la classe principale du programme.</b>
@@ -30,18 +31,21 @@ public class Main {
         ActorsMain      .getInstance();
         FormationMain   .getInstance();
 
-        ReservableMain  .getInstance();
+        ReservableMain.getInstance();
         GroupsMain      .getInstance();
-        Gui             .getInstance();
 
         ActorsMain      .getInstance();
         FormationMain   .getInstance();
+
+        Gui             .getInstance();
+
         Filling.genStudents();
         Filling.genTeachers();
         Filling.genTeachingUnits();
         Filling.genFormations();
         Filling.genRooms();
         Filling.genSchedules();
-
+        Filling.genCourses();
+        //Filling.genGroups();
     }
 }
