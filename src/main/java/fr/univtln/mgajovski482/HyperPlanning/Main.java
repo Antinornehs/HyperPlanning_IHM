@@ -27,12 +27,23 @@ public class Main {
 
     public static void main(String[] args) throws Exception{
 
-
         ActorsMain      .getInstance();
         FormationMain   .getInstance();
 
         ReservableMain  .getInstance();
         GroupsMain      .getInstance();
         Gui             .getInstance();
+
+        ActorsMain      .getInstance();
+        FormationMain   .getInstance();
+//        Gui             .getInstance();
+
+//        Filling.genStudents();
+//        Filling.genTeachers();
+//        Filling.genTeachingUnits();
+//        Filling.genFormations();
+//        Filling.genRooms();
+        Filling.genSchedules();
+
     }
 }
