@@ -1,18 +1,20 @@
 package fr.univtln.mgajovski482.HyperPlanning;
 
+import fr.univtln.mgajovski482.HyperPlanning.Dao.entityManagers.*;
 import fr.univtln.mgajovski482.HyperPlanning.Reservable.Room.Room;
 import fr.univtln.mgajovski482.HyperPlanning.Schedule.Schedule;
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.AbstractRegUser;
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserLogs.RUPersonalLogs;
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.Student;
+
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.Teacher;
-import fr.univtln.sgrassell418.hyperPlanning.dao.entityManagers.*;
 
 import java.util.logging.Logger;
 
 /**
  * Created by stephane on 04/11/15.
  */
+
 public class Filling {
 
     private Logger logger = Logger.getLogger("logFiller");
@@ -27,6 +29,7 @@ public class Filling {
     }
 
     public static void genTeachers(){
+
         EntityManager<Teacher, String> tm = new TeacherManager();
         for (String mapKey : AbstractRegUser.staticRegUsersMap.keySet()) {
             if(AbstractRegUser.staticRegUsersMap.get(mapKey).getRuPersonalLogs().getStatus().equals(RUPersonalLogs.Status.TEACHER)

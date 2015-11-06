@@ -4,6 +4,7 @@ import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractViewGroupListener;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ContactWebmaster.ContactWebmasterView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ForgottenPasswordView.ForgottenPasswordView;
+import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SchedulerView.SchedulerView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView.SignUpFormationView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView.SignUpPersonalLogsView;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ViewGroupStyle;
@@ -208,7 +209,7 @@ public class ScreenTitleView extends AbstractView {
 
             @Override
             public void mouseClicked(MouseEvent e) {
-                super.mouseExited(e);
+                Container.getInstance().updateView(SchedulerView.getInstance());
                 onExit();
                 mouseExited(e);
             }

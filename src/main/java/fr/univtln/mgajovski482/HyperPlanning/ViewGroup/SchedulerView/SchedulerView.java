@@ -7,7 +7,8 @@ import javax.swing.*;
 import javax.swing.table.AbstractTableModel;
 import javax.swing.table.TableModel;
 import java.awt.*;
-import java.util.Collections;
+import java.util.*;
+import java.util.List;
 
 import static fr.univtln.mgajovski482.HyperPlanning.Class.Course.*;
 
@@ -31,10 +32,8 @@ public class SchedulerView extends AbstractView {
 
     private static JTable weekJTable            = new JTable(dataModel);
     private static JScrollPane weekJScrollPane  = new JScrollPane(weekJTable);
-
     public void initAbstractView(){
         super.initAbstractView();
-        addJComponents();
     }
 
     private void addJComponents(){
@@ -42,12 +41,31 @@ public class SchedulerView extends AbstractView {
     }
 
     @Override
-    public void paint(Graphics g) {
-        super.paint(g);
+    public void paintComponent(Graphics g) {
+        paintCourses(g);
     }
 
-    public void paintCourse(Graphics g){
+    public void paintCourses(Graphics g){
+        List<Course> coursesOfTheWeek = Course.getCoursesOfTheWeek();
+        System.out.println("prout : " + coursesOfTheWeek.size());
+        for(Course currentCourse : coursesOfTheWeek)
+            paintCourse(g, currentCourse);
+    }
 
+    public void paintCourse(Graphics g, Course course){
+        Calendar currentCalendar = Calendar.getInstance();
+        Calendar courseCalendar = course.getSchedule().getFromCalendar();
+        int dayDifference = courseCalendar.get(Calendar.DAY_OF_MONTH) - currentCalendar.get(Calendar.DAY_OF_MONTH);
+        int calendarBeginningHour = courseCalendar.get(Calendar.HOUR_OF_DAY);
+        int classDuration = course.getSchedule().getHourDuration();
+
+        g.setColor(Color.BLACK);
+        System.out.println(dayDifference + " " + calendarBeginningHour + " " + classDuration);
+        g.fillRect(
+                dayDifference * 50,
+                calendarBeginningHour * 50,
+                200,
+                classDuration * 200);
     }
 
     public static SchedulerView getInstance() {

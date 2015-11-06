@@ -36,13 +36,11 @@ public class Main {
 
         ActorsMain      .getInstance();
         FormationMain   .getInstance();
-//        Gui             .getInstance();
-
-//        Filling.genStudents();
-//        Filling.genTeachers();
-//        Filling.genTeachingUnits();
-//        Filling.genFormations();
-//        Filling.genRooms();
+        Filling.genStudents();
+        Filling.genTeachers();
+        Filling.genTeachingUnits();
+        Filling.genFormations();
+        Filling.genRooms();
         Filling.genSchedules();
 
     }
