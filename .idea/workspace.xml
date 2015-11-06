@@ -1,56 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6685735e-864f-4873-bcf2-ad2808500adc" name="Default" comment="">
+    <list default="true" id="c1f1af57-42f1-476c-9257-3cf48912f24e" name="Default" comment="">
       <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\IHM02.iml" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\HyperPlanning\ViewGroup\ForgottenPasswordView\SendEmail.java" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\test\java\fr\univtln\mgajovski482\D12\AppTest.java" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\test\java\fr\univtln\mgajovski482\D12\MainTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\App.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\Container.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\Other\Default_Consts.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\AbstractDocumentListener.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\AbstractView.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\AbstractViewGroupListener.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ContactWebmaster\ContactWebmasterDocumentListener.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ContactWebmaster\ContactWebmasterView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ContactWebmaster\ContactWebmasterView$2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ContactWebmaster\ContactWebmasterView.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ForgottenPasswordView\ForgottenPasswordDocumentListener.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ForgottenPasswordView\ForgottenPasswordView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ForgottenPasswordView\ForgottenPasswordView$2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ForgottenPasswordView\ForgottenPasswordView.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ScreenTitleView\ScreenTitleDocumentListener.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ScreenTitleView\ScreenTitleView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ScreenTitleView\ScreenTitleView$2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ScreenTitleView\ScreenTitleView$3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ScreenTitleView\ScreenTitleView$4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ScreenTitleView\ScreenTitleView$5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ScreenTitleView\ScreenTitleView.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\DocumentListener\SignUpConnectionLogsDocumentListener.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\DocumentListener\SignUpPersonalLogsDocumentListener.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\SignUpConnectionLogsView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\SignUpConnectionLogsView$2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\SignUpConnectionLogsView.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\SignUpPersonalLogsView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\SignUpPersonalLogsView$2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\SignUpPersonalLogsView.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\SignUpUserFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ViewGroupRegex.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ViewGroupStyle.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\ViewGroupUsefulFct.class" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\test-classes\fr\univtln\mgajovski482\D12\AppTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Filling.java" afterPath="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Filling.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Main.java" afterPath="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/SchedulerView/SchedulerView.java" afterPath="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/SchedulerView/SchedulerView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ScreenTitleView/ScreenTitleView.java" afterPath="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ScreenTitleView/ScreenTitleView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IHM02.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,91 +45,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SchedulerView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/SchedulerView/SchedulerView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Container.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Container.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#1044#1045#0" expanded="false" />
-                <element signature="e#1104#1105#0" expanded="false" />
-                <element signature="e#1795#1796#0" expanded="false" />
-                <element signature="e#1825#1826#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScreenTitleView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ScreenTitleView/ScreenTitleView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="211" column="80" selection-start-line="211" selection-start-column="80" selection-end-line="211" selection-end-column="80" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#2481#2482#0" expanded="false" />
-                <element signature="e#2504#2505#0" expanded="false" />
-                <element signature="method#addTitleJComp#0;class#ScreenTitleView#0" expanded="false" />
-                <element signature="method#addLoginJComp#0;class#ScreenTitleView#0" expanded="false" />
-                <element signature="method#addPasswordJComp#0;class#ScreenTitleView#0" expanded="false" />
-                <element signature="method#addForgottenPasswordJComp#0;class#ScreenTitleView#0" expanded="false" />
-                <element signature="method#addContactWebmasterJComp#0;class#ScreenTitleView#0" expanded="false" />
-                <element signature="method#addLogInButton#0;class#ScreenTitleView#0" expanded="false" />
-                <element signature="e#7681#7810#0" expanded="false" />
-                <element signature="e#7809#7810#0" expanded="false" />
-                <element signature="e#9001#9002#0" expanded="false" />
-                <element signature="e#9036#9037#0" expanded="false" />
-                <element signature="e#9093#9094#0" expanded="false" />
-                <element signature="e#9138#9139#0" expanded="false" />
-                <element signature="e#9184#9185#0" expanded="false" />
-                <element signature="e#9222#9223#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="68" column="52" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6772152">
-              <caret line="43" column="31" selection-start-line="38" selection-start-column="8" selection-end-line="43" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1446837333494" expanded="true" signature="113596:113613" placeholder="..." />
-                <marker date="1446837333494" expanded="true" signature="113596:113631" placeholder="..." />
-                <marker date="1446837333494" expanded="true" signature="113596:113644" placeholder="..." />
-                <marker date="1446837333494" expanded="true" signature="113596:113659" placeholder="..." />
-              </folding>
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -179,39 +59,17 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Filling.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5e605b98-9430-41db-b264-23883dfdb931/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.766666">
-              <caret line="99" column="59" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="59" />
+              <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActorsMain.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Actors/1.0-SNAPSHOT/Actors-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/ActorsMain.class">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RUFactory.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Actors/1.0-SNAPSHOT/Actors-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/User/RegisteredUser/RegisteredUserFactory/RUFactory.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.44371942">
+              <caret line="193" column="50" selection-start-line="0" selection-start-column="0" selection-end-line="1826" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -353,9 +211,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1370" />
+    <option name="x" value="16" />
+    <option name="width" value="1357" />
     <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -382,7 +239,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -601,7 +458,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -912,9 +769,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Unknown" factoryName="Unknown">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -973,41 +827,36 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172857000" />
+    <option name="totallyTimeSpent" value="172866000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="772" extended-state="0" />
+    <frame x="16" y="0" width="1357" height="772" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3125" sideWeight="0.57251906" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4625" sideWeight="0.33816794" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2557252" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4625" sideWeight="0.66183203" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.49694657" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26412213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1557252" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39969134" sideWeight="0.4939302" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.4969651" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24886191" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.4908953" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1032,688 +881,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ScreenTitleView/ScreenTitleDocumentListener.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/AbstractViewGroupListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ViewGroupRegex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ViewGroupStyle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ViewGroupUsefulFct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/javax/swing/JTextField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/awt/AWTEventMulticaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="276" column="7" selection-start-line="276" selection-start-column="7" selection-end-line="276" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar!/java/util/Arrays.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.8888888">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ScreenTitleView/ScreenTitleDocumentListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/fr/univtln/mgajovski482/HyperPlanning/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/fr.univtln.mgajovski482.D12">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>fr.univtln.mgajovski482.D12</OriginalElement>
-          <nodes>
-            <node x="257.0" y="79.0">fr.univtln.mgajovski482.D12.ViewGroup.ContactWebmaster.ContactWebmasterDocumentListener</node>
-            <node x="1274.5" y="79.0">fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleDocumentListener</node>
-            <node x="1023.5" y="79.0">fr.univtln.mgajovski482.D12.ViewGroup.ForgottenPasswordView.ForgottenPasswordDocumentListener</node>
-            <node x="63.5" y="188.0">fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.SignUpPersonalLogsView</node>
-            <node x="330.0" y="262.0">fr.univtln.mgajovski482.D12.Reservable.Equipment.Generator.EquipmentGenerator</node>
-            <node x="790.0" y="0.0">fr.univtln.mgajovski482.D12.ViewGroup.AbstractDocumentListener</node>
-            <node x="0.0" y="568.0">fr.univtln.mgajovski482.D12.MainTest</node>
-            <node x="67.0" y="341.0">fr.univtln.mgajovski482.D12.Reservable.Equipment.AbstractEquipment</node>
-            <node x="329.0" y="494.0">fr.univtln.mgajovski482.D12.ViewGroup.ViewGroupStyle</node>
-            <node x="489.0" y="494.0">fr.univtln.mgajovski482.D12.Other.Default_Consts</node>
-            <node x="238.0" y="568.0">fr.univtln.mgajovski482.D12.Main</node>
-            <node x="606.9233333333334" y="79.0">fr.univtln.mgajovski482.D12.ViewGroup.AbstractView</node>
-            <node x="221.0" y="341.0">fr.univtln.mgajovski482.D12.Reservable.Room.Room</node>
-            <node x="1033.0" y="188.0">fr.univtln.mgajovski482.D12.ViewGroup.ForgottenPasswordView.ForgottenPasswordView</node>
-            <node x="517.0" y="262.0">fr.univtln.mgajovski482.D12.ViewGroup.ViewGroupUsefulFct</node>
-            <node x="1480.5" y="79.0">fr.univtln.mgajovski482.D12.ViewGroup.AbstractViewGroupListener</node>
-            <node x="127.5" y="420.0">fr.univtln.mgajovski482.D12.Reservable.Equipment.Projector</node>
-            <node x="627.5" y="188.0">fr.univtln.mgajovski482.D12.Container</node>
-            <node x="0.0" y="79.0">fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener.SignUpPersonalLogsDocumentListener</node>
-            <node x="1341.2051587301587" y="188.0">fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleView</node>
-            <node x="755.1666666666667" y="188.0">fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.SignUpConnectionLogsView</node>
-            <node x="749.5" y="79.0">fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener.SignUpConnectionLogsDocumentListener</node>
-            <node x="319.49999999999994" y="188.0">fr.univtln.mgajovski482.D12.ViewGroup.ContactWebmaster.ContactWebmasterView</node>
-            <node x="342.0" y="568.0">fr.univtln.mgajovski482.D12.Gui</node>
-            <node x="2.0" y="420.0">fr.univtln.mgajovski482.D12.Reservable.Equipment.Computer</node>
-            <node x="52.5" y="262.0">fr.univtln.mgajovski482.D12.Reservable.Equipment.AbstractEquipment.CONDITION</node>
-            <node x="187.0" y="262.0">fr.univtln.mgajovski482.D12.Reservable.Reservable</node>
-            <node x="0.0" y="494.0">fr.univtln.mgajovski482.D12.ViewGroup.ViewGroupRegex</node>
-            <node x="498.49999999999994" y="188.0">fr.univtln.mgajovski482.D12.ViewGroup.SchedulerView.SchedulerView</node>
-            <node x="0.0" y="341.0">fr.univtln.mgajovski482.D12.Reservable.Equipment.Computer.OS</node>
-            <node x="167.0" y="494.0">fr.univtln.mgajovski482.D12.EquipmentMain</node>
-            <node x="125.0" y="568.0">fr.univtln.mgajovski482.D12.Other.Consts</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.SignUpConnectionLogsView" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractView">
-              <point x="-60.66666666666674" y="-14.5" />
-              <point x="785.5" y="158.0" />
-              <point x="671.8519047619047" y="158.0" />
-              <point x="14.428571428571331" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ContactWebmaster.ContactWebmasterDocumentListener" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractDocumentListener">
-              <point x="0.0" y="-14.5" />
-              <point x="372.5" y="59.0" />
-              <point x="841.9000000000001" y="59.0" />
-              <point x="-34.59999999999991" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ContactWebmaster.ContactWebmasterView" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractView">
-              <point x="53.0" y="-14.5" />
-              <point x="451.99999999999994" y="158.0" />
-              <point x="628.5661904761905" y="158.0" />
-              <point x="-28.85714285714289" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ForgottenPasswordView.ForgottenPasswordDocumentListener" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractDocumentListener">
-              <point x="0.0" y="-14.5" />
-              <point x="1139.0" y="59.0" />
-              <point x="911.0999999999999" y="59.0" />
-              <point x="34.59999999999991" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.SignUpPersonalLogsView" target="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener.SignUpPersonalLogsDocumentListener">
-              <point x="-55.0" y="-14.5" />
-              <point x="91.0" y="168.0" />
-              <point x="59.25" y="168.0" />
-              <point x="-59.25" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ContactWebmaster.ContactWebmasterView" target="fr.univtln.mgajovski482.D12.ViewGroup.ContactWebmaster.ContactWebmasterDocumentListener">
-              <point x="-53.0" y="-14.5" />
-              <point x="345.99999999999994" y="138.0" />
-              <point x="314.75" y="138.0" />
-              <point x="-57.75" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleView" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractView">
-              <point x="-42.75" y="-14.5" />
-              <point x="1355.4551587301587" y="138.0" />
-              <point x="700.7090476190476" y="138.0" />
-              <point x="43.28571428571422" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.SignUpConnectionLogsView" target="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener.SignUpConnectionLogsDocumentListener">
-              <point x="0.0" y="-14.5" />
-              <point x="846.1666666666667" y="168.0" />
-              <point x="813.0" y="168.0" />
-              <point x="-63.5" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleDocumentListener" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractDocumentListener">
-              <point x="0.0" y="-14.5" />
-              <point x="1367.5" y="49.0" />
-              <point x="945.6999999999998" y="49.0" />
-              <point x="69.19999999999982" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.Reservable.Room.Room" target="fr.univtln.mgajovski482.D12.Reservable.Reservable">
-              <point x="0.0" y="-14.5" />
-              <point x="22.0" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleView" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractViewGroupListener">
-              <point x="42.75" y="-14.5" />
-              <point x="1440.9551587301587" y="168.0" />
-              <point x="1568.0" y="168.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.Reservable.Equipment.Computer" target="fr.univtln.mgajovski482.D12.Reservable.Equipment.Computer.OS">
-              <point x="-21.5" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener.SignUpConnectionLogsDocumentListener" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractDocumentListener">
-              <point x="0.0" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener.SignUpPersonalLogsDocumentListener" target="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.SignUpPersonalLogsView">
-              <point x="59.25" y="14.5" />
-              <point x="177.75" y="168.0" />
-              <point x="146.0" y="168.0" />
-              <point x="0.0" y="-14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleView" target="fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleDocumentListener">
-              <point x="-14.25" y="-14.5" />
-              <point x="1383.9551587301587" y="128.0" />
-              <point x="1321.0" y="128.0" />
-              <point x="-46.5" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener.SignUpConnectionLogsDocumentListener" target="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.SignUpConnectionLogsView">
-              <point x="63.5" y="14.5" />
-              <point x="940.0" y="168.0" />
-              <point x="906.8333333333333" y="168.0" />
-              <point x="60.666666666666515" y="-14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.Reservable.Equipment.AbstractEquipment" target="fr.univtln.mgajovski482.D12.Reservable.Reservable">
-              <point x="33.5" y="-14.5" />
-              <point x="167.5" y="316.0" />
-              <point x="209.0" y="316.0" />
-              <point x="-22.0" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ForgottenPasswordView.ForgottenPasswordDocumentListener" target="fr.univtln.mgajovski482.D12.ViewGroup.ForgottenPasswordView.ForgottenPasswordView">
-              <point x="57.75" y="14.5" />
-              <point x="1196.75" y="168.0" />
-              <point x="1165.5" y="168.0" />
-              <point x="53.0" y="-14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.SignUpPersonalLogsView" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractView">
-              <point x="55.0" y="-14.5" />
-              <point x="201.0" y="148.0" />
-              <point x="614.1376190476192" y="148.0" />
-              <point x="-43.28571428571422" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ContactWebmaster.ContactWebmasterDocumentListener" target="fr.univtln.mgajovski482.D12.ViewGroup.ContactWebmaster.ContactWebmasterView">
-              <point x="57.75" y="14.5" />
-              <point x="430.25" y="138.0" />
-              <point x="398.99999999999994" y="138.0" />
-              <point x="0.0" y="-14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.SignUpView.DocumentListener.SignUpPersonalLogsDocumentListener" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractDocumentListener">
-              <point x="0.0" y="-14.5" />
-              <point x="118.5" y="49.0" />
-              <point x="807.3" y="49.0" />
-              <point x="-69.20000000000005" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ForgottenPasswordView.ForgottenPasswordView" target="fr.univtln.mgajovski482.D12.ViewGroup.ForgottenPasswordView.ForgottenPasswordDocumentListener">
-              <point x="0.0" y="-14.5" />
-              <point x="1112.5" y="168.0" />
-              <point x="1081.25" y="168.0" />
-              <point x="-57.75" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ForgottenPasswordView.ForgottenPasswordView" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractView">
-              <point x="-53.0" y="-14.5" />
-              <point x="1059.5" y="148.0" />
-              <point x="686.2804761904763" y="148.0" />
-              <point x="28.85714285714289" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.Reservable.Equipment.Computer" target="fr.univtln.mgajovski482.D12.Reservable.Equipment.AbstractEquipment">
-              <point x="21.5" y="-14.5" />
-              <point x="66.5" y="395.0" />
-              <point x="100.5" y="395.0" />
-              <point x="-33.5" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.Container" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractView">
-              <point x="0.0" y="-14.5" />
-              <point x="669.5" y="168.0" />
-              <point x="657.4233333333334" y="168.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.Reservable.Equipment.AbstractEquipment" target="fr.univtln.mgajovski482.D12.Reservable.Equipment.AbstractEquipment.CONDITION">
-              <point x="-33.5" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.Reservable.Equipment.Projector" target="fr.univtln.mgajovski482.D12.Reservable.Equipment.AbstractEquipment">
-              <point x="0.0" y="-14.5" />
-              <point x="33.5" y="14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleDocumentListener" target="fr.univtln.mgajovski482.D12.ViewGroup.ScreenTitleView.ScreenTitleView">
-              <point x="46.5" y="14.5" />
-              <point x="1414.0" y="168.0" />
-              <point x="1412.4551587301587" y="168.0" />
-              <point x="14.25" y="-14.5" />
-            </edge>
-            <edge source="fr.univtln.mgajovski482.D12.ViewGroup.SchedulerView.SchedulerView" target="fr.univtln.mgajovski482.D12.ViewGroup.AbstractView">
-              <point x="0.0" y="-14.5" />
-              <point x="553.0" y="168.0" />
-              <point x="642.9947619047621" y="168.0" />
-              <point x="-14.428571428571331" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="368.0" y="190.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/d12/Reservable/1.0-SNAPSHOT/Reservable-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/D12/Other/Consts.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gui.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Formations/1.0-SNAPSHOT/Formations-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/TeachingUnit.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.925926">
-          <caret line="89" column="38" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/SignUpView/DocumentListener/SignUpConnectionLogsDocumentListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ForgottenPasswordView/ForgottenPasswordDocumentListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ContactWebmaster/ContactWebmasterDocumentListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ForgottenPasswordView/ForgottenPasswordView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="86" column="37" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Other/Default_Consts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Reservable/1.0-SNAPSHOT/Reservable-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/Schedule/Generator/ScheduleGenerator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ContactWebmaster/ContactWebmasterView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="105" column="49" selection-start-line="105" selection-start-column="49" selection-end-line="105" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="387" column="0" selection-start-line="387" selection-start-column="0" selection-end-line="387" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#48091#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3504#3505#0" expanded="false" />
-            <element signature="e#3562#3563#0" expanded="false" />
-            <element signature="e#4879#4880#0" expanded="false" />
-            <element signature="e#4928#4929#0" expanded="false" />
-            <element signature="e#11985#11986#0" expanded="false" />
-            <element signature="e#12016#12017#0" expanded="false" />
-            <element signature="e#17088#17089#0" expanded="false" />
-            <element signature="e#17123#17124#0" expanded="false" />
-            <element signature="e#19076#19077#0" expanded="false" />
-            <element signature="e#19128#19129#0" expanded="false" />
-            <element signature="e#21068#21069#0" expanded="false" />
-            <element signature="e#21142#21143#0" expanded="false" />
-            <element signature="e#40955#40956#0" expanded="false" />
-            <element signature="e#40999#41000#0" expanded="false" />
-            <element signature="e#42775#42776#0" expanded="false" />
-            <element signature="e#42819#42820#0" expanded="false" />
-            <element signature="e#44623#44624#0" expanded="false" />
-            <element signature="e#44667#44668#0" expanded="false" />
-            <element signature="e#48004#48005#0" expanded="false" />
-            <element signature="e#48087#48088#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Reservable/1.0-SNAPSHOT/Reservable-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/Class/ClassGenerator/CourseGenerator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/fr.univtln.mgajovski482.HyperPlanning">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>fr.univtln.mgajovski482.HyperPlanning</OriginalElement>
-          <nodes>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Main</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ActorsMain</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserLogs.RUConnectionLogs</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Class.Course.TYPE</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ViewGroupUsefulFct</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.AbstractRegUser</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserLogs.RUPersonalLogs</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserGenerator.MD5</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SchedulerView.SchedulerView</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Gui</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.Teacher.Grade</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView.SignUpPersonalLogsView</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.SendEmail</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView.SignUpConnectionLogsView</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Reservable.Room.Generator.RoomGenerator</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractView</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.Student</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Formation</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Schedule.Schedule</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ContactWebmaster.ContactWebmasterDocumentListener</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Other.Consts</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Schedule.Generator.ScheduleGenerator</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.FormationMain</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserFactory.RUFactory</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.DirectorOfFormation</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Reservable.Equipment.Computer.OS</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.UnregisteredUser.UnregisteredUser</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.User</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView.DocumentListener.SignUpPersonalLogsDocumentListener</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Other.Default_Consts</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.TeachingUnit</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.UnregisteredUser.Visitor</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Class.Course</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.MainTest</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Reservable.Equipment.AbstractEquipment.CONDITION</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ScreenTitleView.ScreenTitleDocumentListener</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserLogs.RUPersonalLogs.Status</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserLogs.RUPersonalLogs.RUPersonalLogsBuilder</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Reservable.Equipment.Computer</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ViewGroupStyle</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserGenerator.RUGenerator</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractViewGroupListener</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.RegisteredUserGenerator.JSonMethods</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.JSonMethods</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Class.ClassGenerator.CourseGenerator</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Reservable.Room.Room</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ForgottenPasswordView.ForgottenPasswordView</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Consts</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.Teacher</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ForgottenPasswordView.ForgottenPasswordDocumentListener</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ContactWebmaster.ContactWebmasterView</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Reservable.Equipment.AbstractEquipment</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView.SignUpFormationView</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ViewGroupRegex</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Reservable.Reservable</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SignUpView.DocumentListener.SignUpConnectionLogsDocumentListener</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Reservable.Equipment.Generator.EquipmentGenerator</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ScreenTitleView.ScreenTitleView</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.WebMaster</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractDocumentListener</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.EquipmentMain</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Reservable.Equipment.Projector</node>
-            <node x="" y="">fr.univtln.mgajovski482.HyperPlanning.Container</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.64" x="646.0" y="511.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Gui.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="3" selection-start-line="7" selection-start-column="0" selection-end-line="18" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ViewGroupUsefulFct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/SignUpView/DocumentListener/SignUpPersonalLogsDocumentListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="98" column="34" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/SignUpView/SignUpFormationView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/SignUpView/SignUpConnectionLogsView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/SendEmail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ViewGroupStyle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ViewGroupRegex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/AbstractViewGroupListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="3" selection-start-line="5" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/AbstractView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/AbstractDocumentListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/SignUpView/SignUpPersonalLogsView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.62069">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Reservable/1.0-SNAPSHOT/Reservable-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/ReservableMain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Reservable/1.0-SNAPSHOT/Reservable-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/Class/Course.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Groups/1.0-SNAPSHOT/Groups-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/GroupsMain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Formations/1.0-SNAPSHOT/Formations-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/Formation.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Actors/1.0-SNAPSHOT/Actors-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/ActorsMain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Actors/1.0-SNAPSHOT/Actors-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/User/RegisteredUser/RegisteredUserFactory/RUFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1446837333494" expanded="true" signature="113596:113613" placeholder="..." />
-            <marker date="1446837333494" expanded="true" signature="113596:113631" placeholder="..." />
-            <marker date="1446837333494" expanded="true" signature="113596:113644" placeholder="..." />
-            <marker date="1446837333494" expanded="true" signature="113596:113659" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1044#1045#0" expanded="false" />
-            <element signature="e#1104#1105#0" expanded="false" />
-            <element signature="e#1795#1796#0" expanded="false" />
-            <element signature="e#1825#1826#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/ScreenTitleView/ScreenTitleView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="211" column="80" selection-start-line="211" selection-start-column="80" selection-end-line="211" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2481#2482#0" expanded="false" />
-            <element signature="e#2504#2505#0" expanded="false" />
-            <element signature="method#addTitleJComp#0;class#ScreenTitleView#0" expanded="false" />
-            <element signature="method#addLoginJComp#0;class#ScreenTitleView#0" expanded="false" />
-            <element signature="method#addPasswordJComp#0;class#ScreenTitleView#0" expanded="false" />
-            <element signature="method#addForgottenPasswordJComp#0;class#ScreenTitleView#0" expanded="false" />
-            <element signature="method#addContactWebmasterJComp#0;class#ScreenTitleView#0" expanded="false" />
-            <element signature="method#addLogInButton#0;class#ScreenTitleView#0" expanded="false" />
-            <element signature="e#7681#7810#0" expanded="false" />
-            <element signature="e#7809#7810#0" expanded="false" />
-            <element signature="e#9001#9002#0" expanded="false" />
-            <element signature="e#9036#9037#0" expanded="false" />
-            <element signature="e#9093#9094#0" expanded="false" />
-            <element signature="e#9138#9139#0" expanded="false" />
-            <element signature="e#9184#9185#0" expanded="false" />
-            <element signature="e#9222#9223#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/SchedulerView/SchedulerView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="52" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5e605b98-9430-41db-b264-23883dfdb931/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.766666">
-          <caret line="99" column="59" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="59" />
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -1721,17 +892,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Filling.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Main.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6772152">
-          <caret line="43" column="31" selection-start-line="38" selection-start-column="8" selection-end-line="43" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.44371942">
+          <caret line="193" column="50" selection-start-line="0" selection-start-column="0" selection-end-line="1826" selection-end-column="10" />
           <folding />
         </state>
       </provider>
