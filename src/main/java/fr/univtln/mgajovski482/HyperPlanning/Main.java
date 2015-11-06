@@ -35,7 +35,7 @@ public class Main {
 
         ActorsMain      .getInstance();
         FormationMain   .getInstance();
-//        Gui             .getInstance();
+        Gui             .getInstance();
 
 //        Filling.genStudents();
 //        Filling.genTeachers();
@@ -44,7 +44,7 @@ public class Main {
 //        Filling.genRooms();
 //        Filling.genSchedules();
 //        Filling.genCourses();
-        Filling.genGroups();
+//        Filling.genGroups();
 
     }
 }

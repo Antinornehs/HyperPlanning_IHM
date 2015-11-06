@@ -1,7 +1,9 @@
 package fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ScreenTitleView;
 
+import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.AbstractRegUser;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractDocumentListener;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ViewGroupRegex;
+import fr.univtln.sgrassell418.hyperPlanning.dao.entityManagers.RegisteredUserManager;
 
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;
@@ -35,5 +37,18 @@ public class ScreenTitleDocumentListener extends AbstractDocumentListener {
 
 
 
+    }
+
+    public boolean logInButtonController(){ //Je ne sais pas comment appeler cette méthode l186 de ScreenTitleView
+        userName    = view.getLoginJTextField().getText();
+        password    = String.copyValueOf(view.getPasswordJPasswordField().getPassword());
+
+        RegisteredUserManager rum = new RegisteredUserManager();
+        AbstractRegUser r = rum.get("mail");
+        if(userName.equals(r.getRuConnectionLogs().getEmail()) && password.equals(r.getRuConnectionLogs().getPassword())){
+            return true; // là il faudrait ouvrir la suite de l'application
+        }else {
+            return false; // là les logs ne sont pas bons
+        }
     }
 }
