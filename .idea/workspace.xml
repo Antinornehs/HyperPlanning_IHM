@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6685735e-864f-4873-bcf2-ad2808500adc" name="Default" comment="" />
+    <list default="true" id="6685735e-864f-4873-bcf2-ad2808500adc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\HyperPlanning\Filling.java" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\.idea\libraries\Maven__fr_univtln_mgajovski482_d12_actors_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\IHM02.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\App.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\Container.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\Gui.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\Other\Default_Consts.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\AbstractDocumentListener.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\AbstractView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\AbstractViewGroupListener.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\ContactWebmaster\ContactWebmasterDocumentListener.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\ContactWebmaster\ContactWebmasterView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\ForgottenPasswordView\ForgottenPasswordDocumentListener.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\ForgottenPasswordView\ForgottenPasswordView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\ForgottenPasswordView\SendEmail.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\SchedulerView\SchedulerView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\ScreenTitleView\ScreenTitleDocumentListener.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\ScreenTitleView\ScreenTitleView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\DocumentListener\SignUpConnectionLogsDocumentListener.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\DocumentListener\SignUpPersonalLogsDocumentListener.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\SignUpConnectionLogsView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\SignUpPersonalLogsView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\SignUpUserFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\ViewGroupRegex.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\ViewGroupStyle.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\D12\ViewGroup\ViewGroupUsefulFct.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\main\java\fr\univtln\mgajovski482\HyperPlanning\ViewGroup\ForgottenPasswordView\SendEmail.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\test\java\fr\univtln\mgajovski482\D12\AppTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\src\test\java\fr\univtln\mgajovski482\D12\MainTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\App.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\classes\fr\univtln\mgajovski482\D12\ViewGroup\SignUpView\SignUpUserFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maxime\IdeaProjects\M1\D14\HyperPlanning\Gui\target\test-classes\fr\univtln\mgajovski482\D12\AppTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/Formations.json" afterPath="$PROJECT_DIR$/resources/Formations.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Main.java" afterPath="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="IHM02.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-6.9259257">
-              <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+              <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -67,11 +106,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6312292">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state vertical-scroll-proportion="-22.666666">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4177215">
+              <caret line="1112" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="1658" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -117,16 +166,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SignUpPersonalLogsView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/SignUpView/SignUpPersonalLogsView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.62069">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -136,6 +175,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -144,7 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/D12/ViewGroup/SignUpView/DocumentListener/SignUpDocumentListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/D12/ViewGroup/SignUpView/DocumentListener/SignUpUserFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/D12/ViewGroup/ForgottenPasswordView/SendEmail.java" />
         <option value="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/D12/ViewGroup/SignUpView/DocumentListener/SignUpConnectionLogsDocumentListener.java" />
@@ -195,6 +236,7 @@
         <option value="$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Groups/1.0-SNAPSHOT/Groups-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/GroupsMain.class" />
         <option value="$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Main.java" />
         <option value="$MAVEN_REPOSITORY$/fr/univtln/mgajovski482/HyperPlanning/Actors/1.0-SNAPSHOT/Actors-1.0-SNAPSHOT.jar!/fr/univtln/mgajovski482/HyperPlanning/User/RegisteredUser/RegisteredUserFactory/RUFactory.class" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -354,10 +396,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HyperPlanning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -369,268 +407,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HyperPlanning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ViewGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IHM02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HyperPlanning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ViewGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SignUpView" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IHM02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HyperPlanning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ViewGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SignUpView" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DocumentListener" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IHM02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HyperPlanning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ViewGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScreenTitleView" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IHM02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HyperPlanning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ViewGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SchedulerView" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IHM02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HyperPlanning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ViewGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ForgottenPasswordView" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IHM02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HyperPlanning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ViewGroup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ContactWebmaster" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IHM02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HyperPlanning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Other" />
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -997,7 +781,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165891000" />
+    <option name="totallyTimeSpent" value="165937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="772" extended-state="0" />
@@ -1007,11 +791,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3140625" sideWeight="0.18854962" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4859375" sideWeight="0.27938932" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0921875" sideWeight="0.27938932" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.09484067" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4859375" sideWeight="0.7206107" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0921875" sideWeight="0.7206107" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28015268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1055,14 +839,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Other/Default_Consts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/ViewGroup/AbstractView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1739,7 +1515,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.9259257">
-          <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -1778,8 +1554,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/univtln/mgajovski482/HyperPlanning/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6312292">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state vertical-scroll-proportion="-22.666666">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4177215">
+          <caret line="1112" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="1658" selection-end-column="10" />
           <folding />
         </state>
       </provider>
