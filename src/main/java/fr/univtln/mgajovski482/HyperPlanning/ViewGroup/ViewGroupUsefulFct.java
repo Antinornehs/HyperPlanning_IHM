@@ -5,9 +5,13 @@ import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+
 /**
- * Created by Maxime on 16/10/2015.
+ * <b>ViewGroupUsefullFct est une classe utilitaire comprenant des methodes utiles a
+ * l'elaboration de l'interface graphique</b>
+ *  @author Maxime
  */
+
 public final class ViewGroupUsefulFct {
 
     public static String htmlFormattedText(String string){

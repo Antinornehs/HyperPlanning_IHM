@@ -12,7 +12,15 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * Created by Maxime on 14/10/2015.
+ * <b>Container est un JPanel contenant toutes les vues de l'application.</b>
+ * <p>
+ * La classe Container est un singleton qui va servir :
+ * <ul>
+ *     <li>A mettre à jour les differentes vues de l'application</li>
+ *     <li>A afficher un Wallpaper sur lequel les JPanel se poseront</li>
+ * </ul>
+ *
+ *  @author Maxime
  */
 public class Container extends JPanel {
 

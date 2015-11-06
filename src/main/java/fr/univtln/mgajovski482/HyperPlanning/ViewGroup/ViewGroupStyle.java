@@ -4,9 +4,13 @@ import fr.univtln.mgajovski482.HyperPlanning.Other.Default_Consts;
 
 import java.awt.*;
 
+
 /**
- * Created by Maxime on 16/10/2015.
+ * <b>ViewGroupStyle est une classe comprenant des constantes propre à la disposition des JComponents
+ * dans les vues de l'interface graphique</b>
+ *  @author Maxime
  */
+
 public final class ViewGroupStyle {
 
 

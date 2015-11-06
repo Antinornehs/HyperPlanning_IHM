@@ -4,7 +4,9 @@ import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 
 /**
- * Created by Maxime on 16/10/2015.
+ * <b>AbstractDocumentListener est une classe implementant DocumentListener</b>
+ * Cette classe permet de simplifier l'ecriture des listeners de l'interface graphique
+ *  @author Maxime
  */
 public abstract class AbstractDocumentListener implements DocumentListener {
 

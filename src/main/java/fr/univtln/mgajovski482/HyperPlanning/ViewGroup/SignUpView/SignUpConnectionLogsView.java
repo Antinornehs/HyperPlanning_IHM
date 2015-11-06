@@ -15,9 +15,33 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+
 /**
- * Created by Maxime on 17/10/2015.
+ * <b>SignUpConnectionLogsView est une vue representant un formulaire de demande d'informations de connexion</b>
+ * <p>
+ * La classe SignUpPersonalLogsView est caracterisee par :
+ * <ul>
+ *     <li>Deux champs e-mail qui doivent être raccords</li>
+ *     <li>Son sexe</li>
+ *     <li>Sa date de naissance</li>
+ *     <li>Son adresse, sa ville, son code postal</li>
+ *     <li>Son numero de telephone</li>
+ *     <li>Une adresse web</li>
+ *     <li>etc...</li>
+ * </ul>
+ * <p>
+ *
+ * Deux boutons permettent alors a l'utilisateur soit de :
+ *<ul>
+ *     <li>De continuer vers SignUpFormationView (afin de choisir une formation) si l'utilisateur est un eleve</li>
+ *     <li>De continuer vers SignUpConnectionLogsView (afin d'entrer ses informations de connexion)
+ *     si l'utilisateur est un professeur ou un directeur de formation</li>
+ *     <lI>De retourner au menu principal</lI>
+ *</ul>
+ *
+ *  @author Maxime
  */
+
 public class SignUpConnectionLogsView extends AbstractView {
 
     private static volatile SignUpConnectionLogsView _instance = null;

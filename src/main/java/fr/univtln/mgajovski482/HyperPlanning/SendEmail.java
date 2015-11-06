@@ -15,6 +15,23 @@ import javax.mail.internet.AddressException;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
+
+/**
+ * <b>SendMail est la classe permettant la reception et l'envoi de mail
+ * à travers les vues :</b>
+ *
+ * <p>
+ * <ul>
+ *     <li>ContactWebMaster (Envoi de mail a l'adresse mail WebMaster)</li>
+ *     <li>ForgottenPassWord(Envoi de passwords perdus aux utilisateurs)</li>
+ * </ul>
+ *
+ * <p>
+ * Un logger nous permet de nous assurer que tout s'est bien deroule.
+ *
+ *  @author Maxime
+ */
+
 public class SendEmail {
 
 

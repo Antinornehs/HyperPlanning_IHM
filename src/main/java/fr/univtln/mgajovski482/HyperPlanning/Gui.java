@@ -7,8 +7,15 @@ import java.awt.*;
 import java.util.logging.Logger;
 
 /**
- * Hello world!
+ * <b>Gui est la classe principale de l'interface graphique.</b>
+ * <p>
+ * La classe Gui est un singleton comprenant :
+ * <ul>
+ *     <li>Un JPanel qui fait office de container.</li>
+ *     <li>Une JFrame dans laquelle l'interface est generee.</li>
+ * </ul>
  *
+ *  @author Maxime
  */
 public class Gui
 {

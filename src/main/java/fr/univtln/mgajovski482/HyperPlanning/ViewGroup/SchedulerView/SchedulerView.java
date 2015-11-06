@@ -1,10 +1,15 @@
 package fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SchedulerView;
 
+import fr.univtln.mgajovski482.HyperPlanning.Class.Course;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractView;
 
 import javax.swing.*;
 import javax.swing.table.AbstractTableModel;
 import javax.swing.table.TableModel;
+import java.awt.*;
+import java.util.Collections;
+
+import static fr.univtln.mgajovski482.HyperPlanning.Class.Course.*;
 
 /**
  * Created by Maxime on 26/10/2015.
@@ -33,6 +38,15 @@ public class SchedulerView extends AbstractView {
     }
 
     private void addJComponents(){
+
+    }
+
+    @Override
+    public void paint(Graphics g) {
+        super.paint(g);
+    }
+
+    public void paintCourse(Graphics g){
 
     }
 

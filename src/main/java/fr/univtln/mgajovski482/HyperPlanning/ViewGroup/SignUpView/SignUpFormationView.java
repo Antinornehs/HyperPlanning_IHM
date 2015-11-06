@@ -21,8 +21,21 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by Maxime on 26/10/2015.
+ * <b>SignUpFormationView est une vue representant un formulaire de demande de formation
+ * pour un utilisateur etudiant</b>
+ * <p>
+ * La classe SignUpFormationView permet de connaitre les differentes formations disponibles
+ * et d'afficher en temps reel les informations les concernants.
+ *
+ * Deux boutons permettent alors a l'utilisateur soit de :
+ *<ul>
+ *     <li>De continuer vers SignUpConnectionLogsView (afin d'entrer ses informations de connexion)</li>
+ *     <lI>De retourner au menu principal</lI>
+ *</ul>
+ *
+ *  @author Maxime
  */
+
 public class SignUpFormationView extends AbstractView{
 
 

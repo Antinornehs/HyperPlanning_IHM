@@ -6,8 +6,23 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.List;
 
+
 /**
- * Created by Maxime on 03/10/2015.
+ * <b>AbstractView est une classe mere abstraite qui va etre heritee par toutes les vues
+ * de l'interface graphique</b>
+ *
+ * <p>
+ * La classe AbstractView est caracterisee par :
+ * <ul>
+ *     <li>Un Layout (migLayout) qui est de meme type pour chaque classe fille.</li>
+ *     <li>Un boolean d'initialisation qui passe a true quand une classe fille a ete
+ *     initialisee</li>
+ *     <li>Une police d'ecriture par defaut</li>
+ *     <li>Une liste des JComponents qui doivent emprunter la police par defaut</li>
+ *     <li>Une liste des JComponents auxquels on ajoute des bordures de couleur noire</li>
+ * </ul>
+ *
+ *  @author Maxime
  */
 public abstract class AbstractView extends JPanel {
 

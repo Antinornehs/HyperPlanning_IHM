@@ -5,8 +5,11 @@ import java.awt.*;
 import java.awt.event.*;
 
 /**
- * Created by Maxime on 08/10/2015.
+ * <b>AbstractViewGroupListener est une classe implementant MouseListener et MouseMotionListener</b>
+ * Cette classe permet de simplifier l'ecriture des listeners de l'interface graphique
+ *  @author Maxime
  */
+
 public abstract class AbstractViewGroupListener implements MouseListener, MouseMotionListener{
 
     private JComponent jComponent = null;

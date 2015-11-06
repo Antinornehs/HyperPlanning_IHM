@@ -1,7 +1,11 @@
 package fr.univtln.mgajovski482.HyperPlanning.ViewGroup;
 
 /**
- * Created by Maxime on 16/10/2015.
+ * <b>ViewGroupRegex est une classe comprenant tous les REGEX</b>
+ * <p>
+ * La classe ViewGroupRegex permet de stocker les expressions regulieres afin d'avoir du
+ * controle lors de la saisie utilisateur.
+ *  @author Maxime
  */
 public final class ViewGroupRegex {
 

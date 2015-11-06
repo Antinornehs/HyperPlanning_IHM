@@ -16,11 +16,34 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.*;
 
+
 /**
- * <b>SignUpPersonalLogsView est une classe représentant une Vue pour l'inscription d'un membre.</b>
+ * <b>SignUpPersonalLogsView est une vue representant un formulaire de demande d'informations personnelles</b>
+ * <p>
+ * La classe SignUpPersonalLogsView contient divers JComponents qui vont permettre de recuperer
+ * les informatons personnelles d'un utilisateur tel que :
+ * <ul>
+ *     <li>Son nom, son prenom</li>
+ *     <li>Son sexe</li>
+ *     <li>Sa date de naissance</li>
+ *     <li>Son adresse, sa ville, son code postal</li>
+ *     <li>Son numero de telephone</li>
+ *     <li>Une adresse web</li>
+ *     <li>etc...</li>
+ * </ul>
+ * <p>
  *
- * @author Maxime
+ * Deux boutons permettent alors a l'utilisateur soit de :
+ *<ul>
+ *     <li>De continuer vers SignUpFormationView (afin de choisir une formation) si l'utilisateur est un eleve</li>
+ *     <li>De continuer vers SignUpConnectionLogsView (afin d'entrer ses informations de connexion)
+ *     si l'utilisateur est un professeur ou un directeur de formation</li>
+ *     <lI>De retourner au menu principal</lI>
+ *</ul>
+ *
+ *  @author Maxime
  */
+
 public class SignUpPersonalLogsView extends AbstractView {
 
     private static volatile SignUpPersonalLogsView _instance = null;
