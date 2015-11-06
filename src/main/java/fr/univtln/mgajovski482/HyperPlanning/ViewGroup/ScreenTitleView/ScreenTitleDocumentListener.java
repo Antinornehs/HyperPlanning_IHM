@@ -3,7 +3,7 @@ package fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ScreenTitleView;
 import fr.univtln.mgajovski482.HyperPlanning.User.RegisteredUser.AbstractRegUser;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractDocumentListener;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.ViewGroupRegex;
-import fr.univtln.sgrassell418.hyperPlanning.dao.entityManagers.RegisteredUserManager;
+import fr.univtln.mgajovski482.HyperPlanning.Dao.entityManagers.RegisteredUserManager;
 
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;

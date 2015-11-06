@@ -1,6 +1,6 @@
 package fr.univtln.mgajovski482.HyperPlanning.ViewGroup.SchedulerView;
 
-import fr.univtln.mgajovski482.HyperPlanning.Class.Course;
+import fr.univtln.mgajovski482.HyperPlanning.Course.Course;
 import fr.univtln.mgajovski482.HyperPlanning.ViewGroup.AbstractView;
 
 import javax.swing.*;
@@ -10,7 +10,7 @@ import java.awt.*;
 import java.util.*;
 import java.util.List;
 
-import static fr.univtln.mgajovski482.HyperPlanning.Class.Course.*;
+import static fr.univtln.mgajovski482.HyperPlanning.Course.Course.*;
 
 /**
  * Created by Maxime on 26/10/2015.

@@ -46,6 +46,6 @@ public class Main {
         Filling.genRooms();
         Filling.genSchedules();
         Filling.genCourses();
-        //Filling.genGroups();
+        Filling.genGroups();
     }
 }
